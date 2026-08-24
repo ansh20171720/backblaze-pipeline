@@ -1,0 +1,790 @@
+{
+  "capacity_bytes": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "cluster_id": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "datacenter": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "date": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "failure": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "is_legacy_format": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "model": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "pod_id": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "pod_slot_num": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "serial_number": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_10_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_10_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_11_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_11_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_12_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_12_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_13_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_13_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_15_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_15_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_160_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_160_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_161_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_161_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_163_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_163_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_164_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_164_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_165_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_165_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_166_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_166_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_167_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_167_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_168_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_168_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_169_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_169_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_16_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_16_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_170_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_170_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_171_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_171_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_172_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_172_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_173_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_173_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_174_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_174_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_175_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_175_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_176_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_176_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_177_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_177_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_178_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_178_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_179_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_179_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_17_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_17_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_180_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_180_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_181_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_181_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_182_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_182_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_183_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_183_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_184_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_184_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_187_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_187_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_188_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_188_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_189_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_189_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_18_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_18_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_190_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_190_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_191_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_191_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_192_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_192_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_193_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_193_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_194_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_194_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_195_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_195_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_196_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_196_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_197_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_197_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_198_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_198_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_199_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_199_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_1_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_1_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_200_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_200_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_201_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_201_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_202_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_202_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_206_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_206_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_210_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_210_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_218_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_218_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_220_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_220_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_222_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_222_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_223_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_223_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_224_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_224_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_225_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_225_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_226_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_226_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_22_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_22_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_230_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_230_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_231_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_231_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_232_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_232_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_233_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_233_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_234_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_234_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_235_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_235_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_23_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_23_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_240_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_240_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_241_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_241_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_242_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_242_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_244_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_244_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_245_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_245_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_246_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_246_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_247_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_247_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_248_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_248_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_24_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_24_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_250_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_250_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_251_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_251_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_252_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_252_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_254_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_254_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_255_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_255_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_27_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_27_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_2_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_2_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_3_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_3_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_4_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_4_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_5_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_5_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_71_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_71_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_7_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_7_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_82_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_82_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_8_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_8_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_90_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_90_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_9_normalized": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_9_raw": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "vault_id": {
+    "first_seen": "2024-01-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_211_normalized": {
+    "first_seen": "2024-04-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_211_raw": {
+    "first_seen": "2024-04-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_212_normalized": {
+    "first_seen": "2024-04-01",
+    "last_seen": "2025-12-31"
+  },
+  "smart_212_raw": {
+    "first_seen": "2024-04-01",
+    "last_seen": "2025-12-31"
+  }
+}
