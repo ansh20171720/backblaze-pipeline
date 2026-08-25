@@ -1,0 +1,3659 @@
+{
+  "cleaned_dates": {
+    "2024-01-01": {
+      "rows": 274660,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-02": {
+      "rows": 274622,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-03": {
+      "rows": 274649,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-04": {
+      "rows": 274619,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-05": {
+      "rows": 274653,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 29
+    },
+    "2024-01-06": {
+      "rows": 274672,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-07": {
+      "rows": 274674,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-08": {
+      "rows": 274682,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-09": {
+      "rows": 274694,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 4
+    },
+    "2024-01-10": {
+      "rows": 274684,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 29
+    },
+    "2024-01-11": {
+      "rows": 274684,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-12": {
+      "rows": 271975,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 18
+    },
+    "2024-01-13": {
+      "rows": 271976,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-14": {
+      "rows": 271977,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-15": {
+      "rows": 271980,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-16": {
+      "rows": 271970,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-17": {
+      "rows": 271953,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 51
+    },
+    "2024-01-18": {
+      "rows": 271967,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-19": {
+      "rows": 271966,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-20": {
+      "rows": 272251,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 1
+    },
+    "2024-01-21": {
+      "rows": 272259,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-22": {
+      "rows": 272262,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-23": {
+      "rows": 272267,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 47
+    },
+    "2024-01-24": {
+      "rows": 272266,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-25": {
+      "rows": 272262,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 29
+    },
+    "2024-01-26": {
+      "rows": 272263,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-27": {
+      "rows": 272234,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 60
+    },
+    "2024-01-28": {
+      "rows": 272077,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-29": {
+      "rows": 272060,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-01-30": {
+      "rows": 273224,
+      "avg_missing_smart_pct": 0.7552,
+      "capacity_flagged_rows": 610
+    },
+    "2024-01-31": {
+      "rows": 274476,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 347
+    },
+    "2024-02-01": {
+      "rows": 275700,
+      "avg_missing_smart_pct": 0.7549,
+      "capacity_flagged_rows": 584
+    },
+    "2024-02-02": {
+      "rows": 275703,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-03": {
+      "rows": 275675,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 45
+    },
+    "2024-02-04": {
+      "rows": 275705,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-05": {
+      "rows": 275705,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-06": {
+      "rows": 275712,
+      "avg_missing_smart_pct": 0.7545,
+      "capacity_flagged_rows": 33
+    },
+    "2024-02-07": {
+      "rows": 275709,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 14
+    },
+    "2024-02-08": {
+      "rows": 275712,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 14
+    },
+    "2024-02-09": {
+      "rows": 275710,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-10": {
+      "rows": 275703,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-11": {
+      "rows": 275707,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-12": {
+      "rows": 275705,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-13": {
+      "rows": 275707,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-14": {
+      "rows": 275704,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 30
+    },
+    "2024-02-15": {
+      "rows": 275702,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-16": {
+      "rows": 276910,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 471
+    },
+    "2024-02-17": {
+      "rows": 276911,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-18": {
+      "rows": 275713,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 29
+    },
+    "2024-02-19": {
+      "rows": 275711,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 29
+    },
+    "2024-02-20": {
+      "rows": 275654,
+      "avg_missing_smart_pct": 0.7544,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-21": {
+      "rows": 276897,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 554
+    },
+    "2024-02-22": {
+      "rows": 276893,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 60
+    },
+    "2024-02-23": {
+      "rows": 276897,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-24": {
+      "rows": 276898,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-25": {
+      "rows": 276898,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 36
+    },
+    "2024-02-26": {
+      "rows": 276902,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-27": {
+      "rows": 276910,
+      "avg_missing_smart_pct": 0.7546,
+      "capacity_flagged_rows": 0
+    },
+    "2024-02-28": {
+      "rows": 276899,
+      "avg_missing_smart_pct": 0.7547,
+      "capacity_flagged_rows": 60
+    },
+    "2024-02-29": {
+      "rows": 277185,
+      "avg_missing_smart_pct": 0.7552,
+      "capacity_flagged_rows": 560
+    },
+    "2024-03-01": {
+      "rows": 277183,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-02": {
+      "rows": 277181,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-03": {
+      "rows": 277183,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 60
+    },
+    "2024-03-04": {
+      "rows": 277185,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-05": {
+      "rows": 277172,
+      "avg_missing_smart_pct": 0.7548,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-06": {
+      "rows": 278656,
+      "avg_missing_smart_pct": 0.7569,
+      "capacity_flagged_rows": 2360
+    },
+    "2024-03-07": {
+      "rows": 279788,
+      "avg_missing_smart_pct": 0.7549,
+      "capacity_flagged_rows": 200
+    },
+    "2024-03-08": {
+      "rows": 280951,
+      "avg_missing_smart_pct": 0.7557,
+      "capacity_flagged_rows": 1180
+    },
+    "2024-03-09": {
+      "rows": 281036,
+      "avg_missing_smart_pct": 0.7549,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-10": {
+      "rows": 281032,
+      "avg_missing_smart_pct": 0.7549,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-11": {
+      "rows": 281032,
+      "avg_missing_smart_pct": 0.7549,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-12": {
+      "rows": 281031,
+      "avg_missing_smart_pct": 0.7549,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-13": {
+      "rows": 281029,
+      "avg_missing_smart_pct": 0.7549,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-14": {
+      "rows": 282225,
+      "avg_missing_smart_pct": 0.7554,
+      "capacity_flagged_rows": 576
+    },
+    "2024-03-15": {
+      "rows": 282254,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-16": {
+      "rows": 281337,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 42
+    },
+    "2024-03-17": {
+      "rows": 281351,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-18": {
+      "rows": 281340,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-19": {
+      "rows": 281343,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-20": {
+      "rows": 281341,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-21": {
+      "rows": 281340,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-22": {
+      "rows": 281189,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-23": {
+      "rows": 282389,
+      "avg_missing_smart_pct": 0.7556,
+      "capacity_flagged_rows": 619
+    },
+    "2024-03-24": {
+      "rows": 282401,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-25": {
+      "rows": 282407,
+      "avg_missing_smart_pct": 0.755,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-26": {
+      "rows": 283537,
+      "avg_missing_smart_pct": 0.7556,
+      "capacity_flagged_rows": 572
+    },
+    "2024-03-27": {
+      "rows": 283591,
+      "avg_missing_smart_pct": 0.7552,
+      "capacity_flagged_rows": 27
+    },
+    "2024-03-28": {
+      "rows": 283594,
+      "avg_missing_smart_pct": 0.7552,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-29": {
+      "rows": 283595,
+      "avg_missing_smart_pct": 0.7552,
+      "capacity_flagged_rows": 0
+    },
+    "2024-03-30": {
+      "rows": 283874,
+      "avg_missing_smart_pct": 0.7554,
+      "capacity_flagged_rows": 80
+    },
+    "2024-03-31": {
+      "rows": 283851,
+      "avg_missing_smart_pct": 0.7554,
+      "capacity_flagged_rows": 60
+    },
+    "2024-04-01": {
+      "rows": 283855,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 20
+    },
+    "2024-04-02": {
+      "rows": 283859,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-03": {
+      "rows": 282966,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 60
+    },
+    "2024-04-04": {
+      "rows": 282962,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-05": {
+      "rows": 282950,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-06": {
+      "rows": 282946,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-07": {
+      "rows": 282943,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 29
+    },
+    "2024-04-08": {
+      "rows": 282950,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-09": {
+      "rows": 282952,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-10": {
+      "rows": 284165,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 172
+    },
+    "2024-04-11": {
+      "rows": 284158,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-12": {
+      "rows": 284157,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-13": {
+      "rows": 286601,
+      "avg_missing_smart_pct": 0.7617,
+      "capacity_flagged_rows": 1229
+    },
+    "2024-04-14": {
+      "rows": 285688,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-15": {
+      "rows": 285689,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-16": {
+      "rows": 285683,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-17": {
+      "rows": 285677,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 14
+    },
+    "2024-04-18": {
+      "rows": 288101,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 560
+    },
+    "2024-04-19": {
+      "rows": 287180,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 60
+    },
+    "2024-04-20": {
+      "rows": 287171,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-21": {
+      "rows": 286252,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-22": {
+      "rows": 286260,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-23": {
+      "rows": 286246,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 29
+    },
+    "2024-04-24": {
+      "rows": 286253,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 28
+    },
+    "2024-04-25": {
+      "rows": 287463,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 113
+    },
+    "2024-04-26": {
+      "rows": 286543,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-27": {
+      "rows": 286533,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-28": {
+      "rows": 286543,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-29": {
+      "rows": 286534,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-04-30": {
+      "rows": 286533,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-01": {
+      "rows": 285604,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 33
+    },
+    "2024-05-02": {
+      "rows": 285606,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 29
+    },
+    "2024-05-03": {
+      "rows": 285600,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-04": {
+      "rows": 285615,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-05": {
+      "rows": 285607,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 55
+    },
+    "2024-05-06": {
+      "rows": 285620,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 41
+    },
+    "2024-05-07": {
+      "rows": 285625,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 58
+    },
+    "2024-05-08": {
+      "rows": 285615,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-09": {
+      "rows": 285618,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-10": {
+      "rows": 285619,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-11": {
+      "rows": 285604,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-12": {
+      "rows": 285596,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-13": {
+      "rows": 285594,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-14": {
+      "rows": 285598,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 33
+    },
+    "2024-05-15": {
+      "rows": 285611,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-16": {
+      "rows": 285613,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 23
+    },
+    "2024-05-17": {
+      "rows": 285615,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-18": {
+      "rows": 285607,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 16
+    },
+    "2024-05-19": {
+      "rows": 285605,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-20": {
+      "rows": 285611,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-21": {
+      "rows": 285615,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-22": {
+      "rows": 285607,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 57
+    },
+    "2024-05-23": {
+      "rows": 285602,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-24": {
+      "rows": 285598,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-25": {
+      "rows": 285567,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-26": {
+      "rows": 285573,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-27": {
+      "rows": 285387,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-28": {
+      "rows": 284991,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-29": {
+      "rows": 285071,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-05-30": {
+      "rows": 286595,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 2
+    },
+    "2024-05-31": {
+      "rows": 286782,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 1
+    },
+    "2024-06-01": {
+      "rows": 286791,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 101
+    },
+    "2024-06-02": {
+      "rows": 286758,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 30
+    },
+    "2024-06-03": {
+      "rows": 286784,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-04": {
+      "rows": 286799,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-05": {
+      "rows": 286800,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-06": {
+      "rows": 287967,
+      "avg_missing_smart_pct": 0.7616,
+      "capacity_flagged_rows": 560
+    },
+    "2024-06-07": {
+      "rows": 288011,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-08": {
+      "rows": 287945,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-09": {
+      "rows": 287983,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-10": {
+      "rows": 287973,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-11": {
+      "rows": 287977,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-12": {
+      "rows": 287976,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-13": {
+      "rows": 287982,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 14
+    },
+    "2024-06-14": {
+      "rows": 287949,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-15": {
+      "rows": 287942,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-16": {
+      "rows": 287952,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 31
+    },
+    "2024-06-17": {
+      "rows": 287961,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 1
+    },
+    "2024-06-18": {
+      "rows": 287961,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-19": {
+      "rows": 270678,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 560
+    },
+    "2024-06-20": {
+      "rows": 270668,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-21": {
+      "rows": 289112,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-06-22": {
+      "rows": 289072,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 59
+    },
+    "2024-06-23": {
+      "rows": 289075,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 37
+    },
+    "2024-06-24": {
+      "rows": 289138,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 58
+    },
+    "2024-06-25": {
+      "rows": 289145,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 57
+    },
+    "2024-06-26": {
+      "rows": 289089,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 42
+    },
+    "2024-06-27": {
+      "rows": 289143,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 86
+    },
+    "2024-06-28": {
+      "rows": 289112,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 63
+    },
+    "2024-06-29": {
+      "rows": 289101,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 50
+    },
+    "2024-06-30": {
+      "rows": 289041,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-01": {
+      "rows": 289096,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-02": {
+      "rows": 288970,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 27
+    },
+    "2024-07-03": {
+      "rows": 288962,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-04": {
+      "rows": 288996,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-05": {
+      "rows": 288870,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-06": {
+      "rows": 288856,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-07": {
+      "rows": 288914,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 86
+    },
+    "2024-07-08": {
+      "rows": 288994,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 28
+    },
+    "2024-07-09": {
+      "rows": 288941,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-10": {
+      "rows": 289115,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 45
+    },
+    "2024-07-11": {
+      "rows": 289123,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 60
+    },
+    "2024-07-12": {
+      "rows": 289148,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-13": {
+      "rows": 289149,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 29
+    },
+    "2024-07-14": {
+      "rows": 290345,
+      "avg_missing_smart_pct": 0.7618,
+      "capacity_flagged_rows": 560
+    },
+    "2024-07-15": {
+      "rows": 290345,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-16": {
+      "rows": 290353,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 0
+    },
+    "2024-07-17": {
+      "rows": 290226,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 59
+    },
+    "2024-07-18": {
+      "rows": 291531,
+      "avg_missing_smart_pct": 0.7619,
+      "capacity_flagged_rows": 678
+    },
+    "2024-07-19": {
+      "rows": 291540,
+      "avg_missing_smart_pct": 0.7615,
+      "capacity_flagged_rows": 324
+    },
+    "2024-07-20": {
+      "rows": 291547,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 220
+    },
+    "2024-07-21": {
+      "rows": 291543,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 54
+    },
+    "2024-07-22": {
+      "rows": 291542,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 214
+    },
+    "2024-07-23": {
+      "rows": 291538,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 218
+    },
+    "2024-07-24": {
+      "rows": 291482,
+      "avg_missing_smart_pct": 0.7615,
+      "capacity_flagged_rows": 280
+    },
+    "2024-07-25": {
+      "rows": 291491,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 31
+    },
+    "2024-07-26": {
+      "rows": 291468,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 22
+    },
+    "2024-07-27": {
+      "rows": 291472,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 28
+    },
+    "2024-07-28": {
+      "rows": 292605,
+      "avg_missing_smart_pct": 0.7616,
+      "capacity_flagged_rows": 584
+    },
+    "2024-07-29": {
+      "rows": 292662,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 40
+    },
+    "2024-07-30": {
+      "rows": 292733,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 29
+    },
+    "2024-07-31": {
+      "rows": 292703,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-01": {
+      "rows": 292729,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-02": {
+      "rows": 291572,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-03": {
+      "rows": 291584,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-04": {
+      "rows": 291582,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-05": {
+      "rows": 291582,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-06": {
+      "rows": 291611,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-07": {
+      "rows": 291600,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 20
+    },
+    "2024-08-08": {
+      "rows": 291601,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 58
+    },
+    "2024-08-09": {
+      "rows": 291603,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-10": {
+      "rows": 291577,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-11": {
+      "rows": 291596,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-12": {
+      "rows": 291537,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-13": {
+      "rows": 291545,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-14": {
+      "rows": 291584,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 85
+    },
+    "2024-08-15": {
+      "rows": 292747,
+      "avg_missing_smart_pct": 0.7616,
+      "capacity_flagged_rows": 614
+    },
+    "2024-08-16": {
+      "rows": 292797,
+      "avg_missing_smart_pct": 0.7612,
+      "capacity_flagged_rows": 48
+    },
+    "2024-08-17": {
+      "rows": 292812,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-18": {
+      "rows": 290673,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-19": {
+      "rows": 290667,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-20": {
+      "rows": 290646,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-21": {
+      "rows": 290668,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 21
+    },
+    "2024-08-22": {
+      "rows": 290711,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 28
+    },
+    "2024-08-23": {
+      "rows": 290722,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-24": {
+      "rows": 290724,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-25": {
+      "rows": 290721,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-26": {
+      "rows": 291922,
+      "avg_missing_smart_pct": 0.7617,
+      "capacity_flagged_rows": 1209
+    },
+    "2024-08-27": {
+      "rows": 291920,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-28": {
+      "rows": 291865,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-29": {
+      "rows": 291867,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 23
+    },
+    "2024-08-30": {
+      "rows": 291872,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-08-31": {
+      "rows": 291809,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-01": {
+      "rows": 291715,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 60
+    },
+    "2024-09-02": {
+      "rows": 291705,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-03": {
+      "rows": 291607,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 52
+    },
+    "2024-09-04": {
+      "rows": 291668,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 44
+    },
+    "2024-09-05": {
+      "rows": 291740,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 29
+    },
+    "2024-09-06": {
+      "rows": 291747,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-07": {
+      "rows": 291868,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 68
+    },
+    "2024-09-08": {
+      "rows": 291771,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 91
+    },
+    "2024-09-09": {
+      "rows": 291798,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-10": {
+      "rows": 291863,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 60
+    },
+    "2024-09-11": {
+      "rows": 291862,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-12": {
+      "rows": 293062,
+      "avg_missing_smart_pct": 0.7618,
+      "capacity_flagged_rows": 1180
+    },
+    "2024-09-13": {
+      "rows": 293054,
+      "avg_missing_smart_pct": 0.761,
+      "capacity_flagged_rows": 50
+    },
+    "2024-09-14": {
+      "rows": 294208,
+      "avg_missing_smart_pct": 0.7619,
+      "capacity_flagged_rows": 1151
+    },
+    "2024-09-15": {
+      "rows": 294482,
+      "avg_missing_smart_pct": 0.7618,
+      "capacity_flagged_rows": 1272
+    },
+    "2024-09-16": {
+      "rows": 294475,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-17": {
+      "rows": 294527,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 51
+    },
+    "2024-09-18": {
+      "rows": 294540,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-19": {
+      "rows": 294537,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-20": {
+      "rows": 291478,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 59
+    },
+    "2024-09-21": {
+      "rows": 292669,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 591
+    },
+    "2024-09-22": {
+      "rows": 292651,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-23": {
+      "rows": 292612,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-24": {
+      "rows": 292639,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-25": {
+      "rows": 292674,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-26": {
+      "rows": 292692,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-27": {
+      "rows": 292631,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-28": {
+      "rows": 292694,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-09-29": {
+      "rows": 292665,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 33
+    },
+    "2024-09-30": {
+      "rows": 292647,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 55
+    },
+    "2024-10-01": {
+      "rows": 292679,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 26
+    },
+    "2024-10-02": {
+      "rows": 292648,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-03": {
+      "rows": 292662,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-04": {
+      "rows": 292694,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 18
+    },
+    "2024-10-05": {
+      "rows": 292693,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 29
+    },
+    "2024-10-06": {
+      "rows": 292683,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-07": {
+      "rows": 292697,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 28
+    },
+    "2024-10-08": {
+      "rows": 292708,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 58
+    },
+    "2024-10-09": {
+      "rows": 292701,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-10": {
+      "rows": 292704,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-11": {
+      "rows": 292713,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-12": {
+      "rows": 292701,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 29
+    },
+    "2024-10-13": {
+      "rows": 291756,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-14": {
+      "rows": 292940,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 23
+    },
+    "2024-10-15": {
+      "rows": 292962,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-16": {
+      "rows": 292988,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 44
+    },
+    "2024-10-17": {
+      "rows": 292965,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-18": {
+      "rows": 292969,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 29
+    },
+    "2024-10-19": {
+      "rows": 292972,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-20": {
+      "rows": 292965,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-21": {
+      "rows": 292990,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-22": {
+      "rows": 292990,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-23": {
+      "rows": 292995,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-24": {
+      "rows": 292988,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-25": {
+      "rows": 292985,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-26": {
+      "rows": 292959,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-27": {
+      "rows": 294118,
+      "avg_missing_smart_pct": 0.7611,
+      "capacity_flagged_rows": 1059
+    },
+    "2024-10-28": {
+      "rows": 294174,
+      "avg_missing_smart_pct": 0.7601,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-29": {
+      "rows": 294189,
+      "avg_missing_smart_pct": 0.7601,
+      "capacity_flagged_rows": 30
+    },
+    "2024-10-30": {
+      "rows": 294181,
+      "avg_missing_smart_pct": 0.7601,
+      "capacity_flagged_rows": 0
+    },
+    "2024-10-31": {
+      "rows": 294168,
+      "avg_missing_smart_pct": 0.7601,
+      "capacity_flagged_rows": 12
+    },
+    "2024-11-01": {
+      "rows": 294174,
+      "avg_missing_smart_pct": 0.7601,
+      "capacity_flagged_rows": 81
+    },
+    "2024-11-02": {
+      "rows": 294169,
+      "avg_missing_smart_pct": 0.7601,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-03": {
+      "rows": 294100,
+      "avg_missing_smart_pct": 0.7601,
+      "capacity_flagged_rows": 43
+    },
+    "2024-11-04": {
+      "rows": 295327,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 590
+    },
+    "2024-11-05": {
+      "rows": 295319,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 27
+    },
+    "2024-11-06": {
+      "rows": 295305,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 24
+    },
+    "2024-11-07": {
+      "rows": 295241,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-08": {
+      "rows": 295297,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 58
+    },
+    "2024-11-09": {
+      "rows": 295243,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-10": {
+      "rows": 295272,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-11": {
+      "rows": 295275,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-12": {
+      "rows": 295323,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-13": {
+      "rows": 295311,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 23
+    },
+    "2024-11-14": {
+      "rows": 295370,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-15": {
+      "rows": 295366,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-16": {
+      "rows": 296555,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 571
+    },
+    "2024-11-17": {
+      "rows": 296590,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 38
+    },
+    "2024-11-18": {
+      "rows": 296575,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-19": {
+      "rows": 297737,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 142
+    },
+    "2024-11-20": {
+      "rows": 297718,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 96
+    },
+    "2024-11-21": {
+      "rows": 297747,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 105
+    },
+    "2024-11-22": {
+      "rows": 297735,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 132
+    },
+    "2024-11-23": {
+      "rows": 297732,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 70
+    },
+    "2024-11-24": {
+      "rows": 297691,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-25": {
+      "rows": 297656,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 57
+    },
+    "2024-11-26": {
+      "rows": 297742,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-27": {
+      "rows": 297714,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-28": {
+      "rows": 297744,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 9
+    },
+    "2024-11-29": {
+      "rows": 297724,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 0
+    },
+    "2024-11-30": {
+      "rows": 297707,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 31
+    },
+    "2024-12-01": {
+      "rows": 297672,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 29
+    },
+    "2024-12-02": {
+      "rows": 297750,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 0
+    },
+    "2024-12-03": {
+      "rows": 300203,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-12-04": {
+      "rows": 300131,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 1
+    },
+    "2024-12-05": {
+      "rows": 300195,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 85
+    },
+    "2024-12-06": {
+      "rows": 300176,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-12-07": {
+      "rows": 300184,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-12-08": {
+      "rows": 300204,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 32
+    },
+    "2024-12-09": {
+      "rows": 300169,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 38
+    },
+    "2024-12-10": {
+      "rows": 300222,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 0
+    },
+    "2024-12-11": {
+      "rows": 300192,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 91
+    },
+    "2024-12-12": {
+      "rows": 300249,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 27
+    },
+    "2024-12-13": {
+      "rows": 301324,
+      "avg_missing_smart_pct": 0.7608,
+      "capacity_flagged_rows": 564
+    },
+    "2024-12-14": {
+      "rows": 301268,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 1
+    },
+    "2024-12-15": {
+      "rows": 301293,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 27
+    },
+    "2024-12-16": {
+      "rows": 302492,
+      "avg_missing_smart_pct": 0.7613,
+      "capacity_flagged_rows": 1180
+    },
+    "2024-12-17": {
+      "rows": 303754,
+      "avg_missing_smart_pct": 0.7614,
+      "capacity_flagged_rows": 20
+    },
+    "2024-12-18": {
+      "rows": 303723,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1254
+    },
+    "2024-12-19": {
+      "rows": 303740,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-20": {
+      "rows": 302793,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-21": {
+      "rows": 304027,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-22": {
+      "rows": 305269,
+      "avg_missing_smart_pct": 0.7609,
+      "capacity_flagged_rows": 1759
+    },
+    "2024-12-23": {
+      "rows": 305208,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-24": {
+      "rows": 305214,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-25": {
+      "rows": 305204,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1228
+    },
+    "2024-12-26": {
+      "rows": 305190,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-27": {
+      "rows": 305016,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-28": {
+      "rows": 305033,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-29": {
+      "rows": 305072,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 1347
+    },
+    "2024-12-30": {
+      "rows": 305149,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2024-12-31": {
+      "rows": 305180,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1226
+    },
+    "2025-01-01": {
+      "rows": 304957,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-02": {
+      "rows": 304842,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-03": {
+      "rows": 304848,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-04": {
+      "rows": 304922,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-05": {
+      "rows": 304897,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-06": {
+      "rows": 305135,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-07": {
+      "rows": 305211,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-08": {
+      "rows": 305243,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-09": {
+      "rows": 305248,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-10": {
+      "rows": 305255,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-11": {
+      "rows": 305156,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-12": {
+      "rows": 305017,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-13": {
+      "rows": 305072,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-14": {
+      "rows": 305230,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-15": {
+      "rows": 305105,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-16": {
+      "rows": 305074,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-17": {
+      "rows": 305186,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-18": {
+      "rows": 305141,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-19": {
+      "rows": 305105,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-20": {
+      "rows": 305122,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-21": {
+      "rows": 305113,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-22": {
+      "rows": 305020,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-23": {
+      "rows": 305017,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-24": {
+      "rows": 305213,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-25": {
+      "rows": 305145,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-26": {
+      "rows": 305186,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-27": {
+      "rows": 305216,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-28": {
+      "rows": 305262,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-29": {
+      "rows": 305188,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-30": {
+      "rows": 305131,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-01-31": {
+      "rows": 305183,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-02-01": {
+      "rows": 305149,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-02-02": {
+      "rows": 305175,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-02-03": {
+      "rows": 306444,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-02-04": {
+      "rows": 306387,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-02-05": {
+      "rows": 306349,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-02-06": {
+      "rows": 306394,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-02-07": {
+      "rows": 306315,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 1200
+    },
+    "2025-02-08": {
+      "rows": 307373,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 1763
+    },
+    "2025-02-09": {
+      "rows": 309184,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 3040
+    },
+    "2025-02-10": {
+      "rows": 309896,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-11": {
+      "rows": 309943,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-12": {
+      "rows": 309867,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-13": {
+      "rows": 310029,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 3599
+    },
+    "2025-02-14": {
+      "rows": 309926,
+      "avg_missing_smart_pct": 0.7607,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-15": {
+      "rows": 310756,
+      "avg_missing_smart_pct": 0.7606,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-16": {
+      "rows": 311154,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-17": {
+      "rows": 311080,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-18": {
+      "rows": 310969,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-19": {
+      "rows": 311121,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-20": {
+      "rows": 311059,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-21": {
+      "rows": 311028,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-22": {
+      "rows": 311048,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-23": {
+      "rows": 311105,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-24": {
+      "rows": 311159,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3601
+    },
+    "2025-02-25": {
+      "rows": 311275,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-26": {
+      "rows": 311197,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-27": {
+      "rows": 311221,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-02-28": {
+      "rows": 311136,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-01": {
+      "rows": 312834,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-02": {
+      "rows": 313145,
+      "avg_missing_smart_pct": 0.7605,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-03": {
+      "rows": 313588,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-04": {
+      "rows": 313474,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-05": {
+      "rows": 313538,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-06": {
+      "rows": 313622,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-07": {
+      "rows": 313610,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-08": {
+      "rows": 313650,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-09": {
+      "rows": 313676,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-10": {
+      "rows": 313626,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-11": {
+      "rows": 313585,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-12": {
+      "rows": 313644,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-13": {
+      "rows": 313491,
+      "avg_missing_smart_pct": 0.7604,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-14": {
+      "rows": 312730,
+      "avg_missing_smart_pct": 0.7603,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-15": {
+      "rows": 312327,
+      "avg_missing_smart_pct": 0.7602,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-16": {
+      "rows": 311494,
+      "avg_missing_smart_pct": 0.76,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-17": {
+      "rows": 311476,
+      "avg_missing_smart_pct": 0.76,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-18": {
+      "rows": 311471,
+      "avg_missing_smart_pct": 0.76,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-19": {
+      "rows": 311490,
+      "avg_missing_smart_pct": 0.76,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-20": {
+      "rows": 311466,
+      "avg_missing_smart_pct": 0.76,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-21": {
+      "rows": 310570,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-22": {
+      "rows": 310423,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3601
+    },
+    "2025-03-23": {
+      "rows": 310432,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3601
+    },
+    "2025-03-24": {
+      "rows": 310422,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-25": {
+      "rows": 310444,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-26": {
+      "rows": 310347,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3601
+    },
+    "2025-03-27": {
+      "rows": 310550,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-28": {
+      "rows": 310623,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-29": {
+      "rows": 311597,
+      "avg_missing_smart_pct": 0.7599,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-30": {
+      "rows": 311631,
+      "avg_missing_smart_pct": 0.7595,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-03-31": {
+      "rows": 312831,
+      "avg_missing_smart_pct": 0.7594,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-01": {
+      "rows": 312812,
+      "avg_missing_smart_pct": 0.7594,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-02": {
+      "rows": 312895,
+      "avg_missing_smart_pct": 0.7594,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-03": {
+      "rows": 312934,
+      "avg_missing_smart_pct": 0.7594,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-04": {
+      "rows": 313017,
+      "avg_missing_smart_pct": 0.7594,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-05": {
+      "rows": 312985,
+      "avg_missing_smart_pct": 0.7594,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-06": {
+      "rows": 314196,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-07": {
+      "rows": 314147,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-08": {
+      "rows": 314121,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-09": {
+      "rows": 314134,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-10": {
+      "rows": 314158,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3601
+    },
+    "2025-04-11": {
+      "rows": 314217,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-12": {
+      "rows": 314214,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3601
+    },
+    "2025-04-13": {
+      "rows": 314198,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-14": {
+      "rows": 314165,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-15": {
+      "rows": 314105,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3601
+    },
+    "2025-04-16": {
+      "rows": 314137,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3601
+    },
+    "2025-04-17": {
+      "rows": 314063,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-18": {
+      "rows": 314119,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-19": {
+      "rows": 314048,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-20": {
+      "rows": 313918,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-04-21": {
+      "rows": 315287,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-04-22": {
+      "rows": 315285,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-04-23": {
+      "rows": 315074,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-04-24": {
+      "rows": 315165,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-04-25": {
+      "rows": 315251,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-04-26": {
+      "rows": 315107,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-04-27": {
+      "rows": 315103,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-04-28": {
+      "rows": 315186,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-04-29": {
+      "rows": 315279,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-04-30": {
+      "rows": 315298,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-05-01": {
+      "rows": 315374,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-02": {
+      "rows": 315282,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-05-03": {
+      "rows": 315271,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-04": {
+      "rows": 315345,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-05": {
+      "rows": 316577,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-06": {
+      "rows": 316547,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-05-07": {
+      "rows": 316589,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-08": {
+      "rows": 316479,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-09": {
+      "rows": 316544,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-05-10": {
+      "rows": 316496,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-11": {
+      "rows": 316450,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-12": {
+      "rows": 245997,
+      "avg_missing_smart_pct": 0.7571,
+      "capacity_flagged_rows": 3600
+    },
+    "2025-05-13": {
+      "rows": 316370,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-05-14": {
+      "rows": 316457,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-15": {
+      "rows": 316529,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-16": {
+      "rows": 316516,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-17": {
+      "rows": 317653,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-18": {
+      "rows": 317643,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-19": {
+      "rows": 317550,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-20": {
+      "rows": 317500,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-05-21": {
+      "rows": 317662,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-05-22": {
+      "rows": 317589,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-05-23": {
+      "rows": 317683,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-24": {
+      "rows": 317673,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-25": {
+      "rows": 318323,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-26": {
+      "rows": 318751,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-05-27": {
+      "rows": 318683,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-05-28": {
+      "rows": 318743,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-05-29": {
+      "rows": 318802,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-05-30": {
+      "rows": 318766,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-05-31": {
+      "rows": 318799,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-06-01": {
+      "rows": 318737,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-06-02": {
+      "rows": 319304,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-06-03": {
+      "rows": 319927,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-06-04": {
+      "rows": 319896,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-06-05": {
+      "rows": 319992,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-06-06": {
+      "rows": 319983,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-06-07": {
+      "rows": 319962,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4802
+    },
+    "2025-06-08": {
+      "rows": 320087,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-06-09": {
+      "rows": 319914,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4799
+    },
+    "2025-06-10": {
+      "rows": 319992,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-06-11": {
+      "rows": 319970,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4801
+    },
+    "2025-06-12": {
+      "rows": 319983,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 4800
+    },
+    "2025-06-13": {
+      "rows": 320622,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 5446
+    },
+    "2025-06-14": {
+      "rows": 321184,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-15": {
+      "rows": 321224,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-16": {
+      "rows": 321108,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-17": {
+      "rows": 321136,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-18": {
+      "rows": 321263,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-06-19": {
+      "rows": 321247,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 5998
+    },
+    "2025-06-20": {
+      "rows": 321242,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-06-21": {
+      "rows": 321232,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6002
+    },
+    "2025-06-22": {
+      "rows": 321152,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-23": {
+      "rows": 321240,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-24": {
+      "rows": 321253,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-25": {
+      "rows": 321169,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6001
+    },
+    "2025-06-26": {
+      "rows": 321239,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-27": {
+      "rows": 321234,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-28": {
+      "rows": 321095,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-29": {
+      "rows": 321193,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-06-30": {
+      "rows": 321201,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-01": {
+      "rows": 321792,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-02": {
+      "rows": 322496,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-07-03": {
+      "rows": 322445,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-04": {
+      "rows": 322490,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-05": {
+      "rows": 322384,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-06": {
+      "rows": 322399,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-07": {
+      "rows": 322340,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-08": {
+      "rows": 322275,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-09": {
+      "rows": 322441,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-10": {
+      "rows": 322531,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 5998
+    },
+    "2025-07-11": {
+      "rows": 322529,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 5997
+    },
+    "2025-07-12": {
+      "rows": 322477,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-13": {
+      "rows": 322510,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-14": {
+      "rows": 322410,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-15": {
+      "rows": 322402,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-16": {
+      "rows": 322429,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-17": {
+      "rows": 322464,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-18": {
+      "rows": 322297,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-19": {
+      "rows": 322282,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-20": {
+      "rows": 322269,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-21": {
+      "rows": 322305,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-22": {
+      "rows": 322351,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-23": {
+      "rows": 322390,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-24": {
+      "rows": 322331,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-25": {
+      "rows": 322281,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-26": {
+      "rows": 322394,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-27": {
+      "rows": 322262,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6001
+    },
+    "2025-07-28": {
+      "rows": 322182,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-29": {
+      "rows": 322013,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-30": {
+      "rows": 322141,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-07-31": {
+      "rows": 322315,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-08-01": {
+      "rows": 322327,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-08-02": {
+      "rows": 323017,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-08-03": {
+      "rows": 323610,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-08-04": {
+      "rows": 323570,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-08-05": {
+      "rows": 323347,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6001
+    },
+    "2025-08-06": {
+      "rows": 323336,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-08-07": {
+      "rows": 323458,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-08-08": {
+      "rows": 323512,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-08-09": {
+      "rows": 323541,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-08-10": {
+      "rows": 323427,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5998
+    },
+    "2025-08-11": {
+      "rows": 323355,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5998
+    },
+    "2025-08-12": {
+      "rows": 323509,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-08-13": {
+      "rows": 323395,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-08-14": {
+      "rows": 323527,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-08-15": {
+      "rows": 323511,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6000
+    },
+    "2025-08-16": {
+      "rows": 323561,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5998
+    },
+    "2025-08-17": {
+      "rows": 323534,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5999
+    },
+    "2025-08-18": {
+      "rows": 323474,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 5997
+    },
+    "2025-08-19": {
+      "rows": 323646,
+      "avg_missing_smart_pct": 0.7592,
+      "capacity_flagged_rows": 6002
+    },
+    "2025-08-20": {
+      "rows": 324925,
+      "avg_missing_smart_pct": 0.7591,
+      "capacity_flagged_rows": 6640
+    },
+    "2025-08-21": {
+      "rows": 326031,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-08-22": {
+      "rows": 324886,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-08-23": {
+      "rows": 324891,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-08-24": {
+      "rows": 324725,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-08-25": {
+      "rows": 324724,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-08-26": {
+      "rows": 324782,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-08-27": {
+      "rows": 324762,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-08-28": {
+      "rows": 324856,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-08-29": {
+      "rows": 324862,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-08-30": {
+      "rows": 324884,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-08-31": {
+      "rows": 324815,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-09-01": {
+      "rows": 324631,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-09-02": {
+      "rows": 324608,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7195
+    },
+    "2025-09-03": {
+      "rows": 324706,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7138
+    },
+    "2025-09-04": {
+      "rows": 324797,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7137
+    },
+    "2025-09-05": {
+      "rows": 324774,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7139
+    },
+    "2025-09-06": {
+      "rows": 324704,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7141
+    },
+    "2025-09-07": {
+      "rows": 324642,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-09-08": {
+      "rows": 324748,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-09-09": {
+      "rows": 323872,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-09-10": {
+      "rows": 324418,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-09-11": {
+      "rows": 324878,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-09-12": {
+      "rows": 324892,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-09-13": {
+      "rows": 326074,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-09-14": {
+      "rows": 327134,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-09-15": {
+      "rows": 327088,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-09-16": {
+      "rows": 327109,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-09-17": {
+      "rows": 327855,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-09-18": {
+      "rows": 328421,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-09-19": {
+      "rows": 328362,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-20": {
+      "rows": 328376,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-21": {
+      "rows": 328422,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-22": {
+      "rows": 328411,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-23": {
+      "rows": 328429,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-24": {
+      "rows": 329111,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-09-25": {
+      "rows": 329555,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-26": {
+      "rows": 329386,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-09-27": {
+      "rows": 329449,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-28": {
+      "rows": 329448,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-29": {
+      "rows": 329487,
+      "avg_missing_smart_pct": 0.7585,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-09-30": {
+      "rows": 330237,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-10-01": {
+      "rows": 330866,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-10-02": {
+      "rows": 330830,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-03": {
+      "rows": 330422,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-04": {
+      "rows": 330502,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-10-05": {
+      "rows": 331099,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-06": {
+      "rows": 331717,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-10-07": {
+      "rows": 331733,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-08": {
+      "rows": 331903,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-10-09": {
+      "rows": 331882,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7202
+    },
+    "2025-10-10": {
+      "rows": 331790,
+      "avg_missing_smart_pct": 0.7586,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-11": {
+      "rows": 333076,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-12": {
+      "rows": 333818,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-10-13": {
+      "rows": 334141,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-14": {
+      "rows": 334289,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7202
+    },
+    "2025-10-15": {
+      "rows": 334360,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-10-16": {
+      "rows": 334335,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-17": {
+      "rows": 334294,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-18": {
+      "rows": 334312,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-10-19": {
+      "rows": 334247,
+      "avg_missing_smart_pct": 0.7587,
+      "capacity_flagged_rows": 7140
+    },
+    "2025-10-20": {
+      "rows": 334880,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7140
+    },
+    "2025-10-21": {
+      "rows": 335505,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-22": {
+      "rows": 335565,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7202
+    },
+    "2025-10-23": {
+      "rows": 335536,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7207
+    },
+    "2025-10-24": {
+      "rows": 335613,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-10-25": {
+      "rows": 335617,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-10-26": {
+      "rows": 335560,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-10-27": {
+      "rows": 335565,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-10-28": {
+      "rows": 335635,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7199
+    },
+    "2025-10-29": {
+      "rows": 335587,
+      "avg_missing_smart_pct": 0.7588,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-10-30": {
+      "rows": 336455,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-10-31": {
+      "rows": 336883,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-01": {
+      "rows": 336799,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-02": {
+      "rows": 336758,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-03": {
+      "rows": 336605,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-04": {
+      "rows": 336711,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7203
+    },
+    "2025-11-05": {
+      "rows": 336621,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-06": {
+      "rows": 336595,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-07": {
+      "rows": 336689,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-08": {
+      "rows": 336637,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-09": {
+      "rows": 336491,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-10": {
+      "rows": 336401,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-11": {
+      "rows": 336536,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-12": {
+      "rows": 336508,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-13": {
+      "rows": 336504,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-11-14": {
+      "rows": 336475,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-11-15": {
+      "rows": 336476,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-11-16": {
+      "rows": 336384,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-11-17": {
+      "rows": 336249,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7194
+    },
+    "2025-11-18": {
+      "rows": 336220,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7194
+    },
+    "2025-11-19": {
+      "rows": 336859,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-11-20": {
+      "rows": 337399,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7195
+    },
+    "2025-11-21": {
+      "rows": 337501,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-11-22": {
+      "rows": 337534,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-11-23": {
+      "rows": 337343,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-11-24": {
+      "rows": 337347,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-11-25": {
+      "rows": 337479,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-11-26": {
+      "rows": 337385,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-11-27": {
+      "rows": 337324,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7144
+    },
+    "2025-11-28": {
+      "rows": 337318,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-11-29": {
+      "rows": 336950,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-11-30": {
+      "rows": 336986,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-12-01": {
+      "rows": 337006,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-12-02": {
+      "rows": 336730,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7201
+    },
+    "2025-12-03": {
+      "rows": 336126,
+      "avg_missing_smart_pct": 0.7589,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-12-04": {
+      "rows": 337161,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-12-05": {
+      "rows": 337294,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-12-06": {
+      "rows": 337366,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7200
+    },
+    "2025-12-07": {
+      "rows": 337377,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-12-08": {
+      "rows": 337183,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-12-09": {
+      "rows": 337493,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-12-10": {
+      "rows": 338006,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-12-11": {
+      "rows": 338655,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7198
+    },
+    "2025-12-12": {
+      "rows": 338648,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-12-13": {
+      "rows": 338709,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-12-14": {
+      "rows": 338695,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7196
+    },
+    "2025-12-15": {
+      "rows": 338609,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7195
+    },
+    "2025-12-16": {
+      "rows": 338664,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7197
+    },
+    "2025-12-17": {
+      "rows": 338464,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7193
+    },
+    "2025-12-18": {
+      "rows": 338304,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7193
+    },
+    "2025-12-19": {
+      "rows": 338191,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 7397
+    },
+    "2025-12-20": {
+      "rows": 339330,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8391
+    },
+    "2025-12-21": {
+      "rows": 339309,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8389
+    },
+    "2025-12-22": {
+      "rows": 339473,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8389
+    },
+    "2025-12-23": {
+      "rows": 339492,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8389
+    },
+    "2025-12-24": {
+      "rows": 339318,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8389
+    },
+    "2025-12-25": {
+      "rows": 339209,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8389
+    },
+    "2025-12-26": {
+      "rows": 339005,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8388
+    },
+    "2025-12-27": {
+      "rows": 339145,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8388
+    },
+    "2025-12-28": {
+      "rows": 339017,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8388
+    },
+    "2025-12-29": {
+      "rows": 338948,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8344
+    },
+    "2025-12-30": {
+      "rows": 338863,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8329
+    },
+    "2025-12-31": {
+      "rows": 338817,
+      "avg_missing_smart_pct": 0.759,
+      "capacity_flagged_rows": 8328
+    }
+  }
+}
