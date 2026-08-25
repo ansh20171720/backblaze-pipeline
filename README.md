@@ -192,11 +192,8 @@ pip install -r requirements.txt
 chmod +x download_data.sh
 ./download_data.sh
 
-# 3. Run the pipeline stages in order (each is independently incremental)
-python3 src/ingest.py
-python3 src/transform.py
-python3 src/aggregate.py
-python3 src/analytics.py
+# 3. Run the full pipeline (each stage is independently incremental)
+python3 src/pipeline.py
 
 # 4. Run tests
 pytest tests/ -v
