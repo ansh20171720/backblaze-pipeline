@@ -16,9 +16,7 @@ SCHEMA_REGISTRY_PATH = "data/schema_registry.json"
 DATE_PATTERN = re.compile(r"(\d{4}-\d{2}-\d{2})")
 SMART_COL_PATTERN = re.compile(r"^smart_\d+_(raw|normalized)$")
 
-# Columns known to be small integer identifiers/counters in the raw data.
-# Everything else numeric is treated as a float to avoid int/float schema
-# drift caused by nulls appearing inconsistently across days.
+
 INT_ID_COLUMNS = {"cluster_id", "vault_id", "pod_id", "capacity_bytes", "failure"}
 
 
@@ -40,8 +38,7 @@ def coerce_dtypes(df: pd.DataFrame) -> pd.DataFrame:
     for col in smart_cols:
         df[col] = pd.to_numeric(df[col], errors="coerce").astype("float64")
 
-    # Any other numeric column that isn't a known clean integer id: force
-    # float64 too, so a stray null anywhere doesn't silently change its dtype.
+    
     for col in df.columns:
         if col in INT_ID_COLUMNS or col in smart_cols:
             continue
@@ -108,12 +105,7 @@ def process_csv_files():
             continue
 
         try:
-            # Read the whole day's file in one pass. Daily files here average
-            # well under 200MB (~89GB / 731 files), so a single day fits
-            # comfortably inside the 2GB budget without sub-file chunking.
-            # Reading in one pass also means pandas infers each column's
-            # dtype ONCE per file, eliminating the chunk-to-chunk dtype
-            # drift that caused schema mismatches when chunking was used.
+         
             df = pd.read_csv(file_path, low_memory=False)
             df = normalize_columns(df)
             df = coerce_dtypes(df)
@@ -134,7 +126,7 @@ def process_csv_files():
             }
             newly_processed += 1
 
-            # Free memory before moving to the next day's file.
+            
             del df, table
 
         except Exception as e:

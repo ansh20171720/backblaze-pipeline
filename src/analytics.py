@@ -5,10 +5,8 @@ from collections import defaultdict
 MODEL_MONTHLY_PATH = "data/model_monthly_summary.json"
 CLEAN_MANIFEST_PATH = "data/clean_manifest.json"
 
-MIN_DRIVE_DAYS_FOR_RANKING = 10_000  # avoid tiny-sample models dominating rankings
+MIN_DRIVE_DAYS_FOR_RANKING = 10_000
 
-# Manufacturer prefixes, derived from Backblaze's published model naming
-# conventions -- a small mapping, not a per-model hardcoded list.
 MANUFACTURER_PATTERNS = [
     (re.compile(r"^ST", re.I), "Seagate"),
     (re.compile(r"^WDC|^WD", re.I), "Western Digital"),
